@@ -13,4 +13,4 @@ output:
 
 I am interested in exploring data related to...
 
-minority voting rates and turnout since the passage of the Civil Rights Act and Voting Rights Act in the 1960s. I would like to quantify exactly what affect these two landmark pieces of legislation had on the protection and efficacy of, in particular, the African-American vote in the years immediately following passage and in contemporary terms.
+minority voting rates and turnout since the passage of the Civil Rights Act and Voting Rights Act in the 1960s. I would like to quantify exactly what affect these two landmark pieces of legislation had on the protection and efficacy of, in particular, the African-American vote in the years immediately following passage and in contemporary terms. 
