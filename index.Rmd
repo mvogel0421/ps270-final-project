@@ -21,3 +21,13 @@ To what extent the landmark voting and civil rights legislation of the Civil Rig
 
 I believe that from the times these various bills are passed into law, we will observe marked increases in minority voter turnout. Yet, in modern standards, these bills have not exactly taken on the long-term effect we may have hoped. Contemporary electoral debates are still dominated with the topic of minority voting, and many wonder why minorities continue to vote at lower rates than the white majority in the US. Due to this, I believe that the Voting Rights and Civil Rights Acts of the 1960s have been counter-acted by the fact that there is still immense inequality along racial lines in the United States. Therefore, I would like to examine minority voter turnout in states where extreme inequality between races still exists, and discover whether this is the main determining factor in minority voter turnout, and whether the Voting Rights and Civil Rights Acts have truly had a positive, long-term affect on boldening the voices of Americans in the minority. 
 
+Explanatory Variables:
+- Wealth inequality by race in a state
+- Implemented Civil Rights legislation
+- Implemented Voting Rights Legislation
+
+Outcome Variable
+- Minority Voting rate, the rate at which various minorities vote, respective to their whole population. 
+
+Support for my hypohtesis would be found if I do in fact collect a considerable amount of data that tells me that states with higher inequality have lower minority voting turnout. 
+
