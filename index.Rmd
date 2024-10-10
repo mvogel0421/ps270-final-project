@@ -14,3 +14,10 @@ output:
 I am interested in exploring data related to...
 
 minority voting rates and turnout since the passage of the Civil Rights Act and Voting Rights Act in the 1960s. I would like to quantify exactly what affect these two landmark pieces of legislation had on the protection and efficacy of, in particular, the African-American vote in the years immediately following passage and in contemporary terms. 
+
+## Final Project Milestone 2
+
+To what extent the landmark voting and civil rights legislation of the Civil Rights Era (1960s, in particular) positively affect minoriting voting rates in the United States?
+
+I believe that from the times these various bills are passed into law, we will observe marked increases in minority voter turnout. Yet, in modern standards, these bills have not exactly taken on the long-term effect we may have hoped. Contemporary electoral debates are still dominated with the topic of minority voting, and many wonder why minorities continue to vote at lower rates than the white majority in the US. Due to this, I believe that the Voting Rights and Civil Rights Acts of the 1960s have been counter-acted by the fact that there is still immense inequality along racial lines in the United States. Therefore, I would like to examine minority voter turnout in states where extreme inequality between races still exists, and discover whether this is the main determining factor in minority voter turnout, and whether the Voting Rights and Civil Rights Acts have truly had a positive, long-term affect on boldening the voices of Americans in the minority. 
+
